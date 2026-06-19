@@ -30,13 +30,13 @@ Currently, I'm exploring **Docker, Apache Kafka, Redis, Machine Learning, and AI
 
 ## 🌐 Connect With Me
 
-<p align="center">
-  <a href="https://github.com/ShashankBytes">GitHub</a> •
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_PROFILE">LinkedIn</a> •
-  <a href="mailto:YOUR_EMAIL@gmail.com">Email</a>
-</p>
+[![GitHub](https://img.shields.io/badge/GitHub-ShashankBytes-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ShashankBytes)
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shashank-yadav-768b35263/)
+
+[![X](https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ShankX04)
+
+[![Gmail](https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shashank310304@gmail.com)
 
 ## 🛠️ Tech Stack
 
